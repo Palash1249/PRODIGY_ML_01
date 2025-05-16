@@ -53,8 +53,7 @@ Here is the code for the predected price
 
 ### 🔍 Model Performance
 
-- **R² Score**: `0.89`
-- **Mean Absolute Error (MAE)**: `21000`
-- **Root Mean Squared Error (RMSE)**: `27000`
+- **R² Score**: `0.6341`
+- **Root Mean Squared Error (RMSE)**: `52975.7177`
 
 These metrics suggest that the model performs reasonably well in estimating house prices.
