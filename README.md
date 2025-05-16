@@ -44,9 +44,12 @@ The following 3D scatter plot visualizes how well the model predicts house price
 
 ![3D Plot](result/Screenshot%202025-05-16%20103744.png)
 
-- 🟠 Orange dots represent **actual house prices**
-- 🔵 Blue dots represent **predicted house prices**
+- Blue dots represent **actual house prices**
+- Green dots represent **predicted house prices**
 - The plot helps visualize the performance and variance across the feature space
+
+Here is the code for the predected price
+![Predected Code](result/Screenshot%202025-05-16%20103725.png)
 
 ### 🔍 Model Performance
 
